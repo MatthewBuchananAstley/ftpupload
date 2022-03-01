@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 #
 # Script om files te uploaden naar webhost
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+# FileCopyrightText: <text> 2021-2022 Matthew Buchanan Astley ( matthewbuchanan@astley.nl ) </text>
+#
 
 import os
 import sys

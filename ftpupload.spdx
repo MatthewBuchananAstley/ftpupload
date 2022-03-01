@@ -1,0 +1,61 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+SPDXID: SPDXRef-DOCUMENT
+DocumentName: ftpupload.spdx
+DocumentNamespace: https://github.com/MatthewBuchananAstley/ftpupload.git
+Creator: Person: Matthew Buchanan Astley (matthewbuchanan@astley.nl)
+Created: 2022-02-24T21:37:28Z
+CreatorComment: ftpupload spdx file
+
+#
+#
+
+PackageName: ftpupload
+SPDXID: SPDXRef-MatthewBuchananAstley-Package-ftpupload
+PackageVersion: 1.0
+PackageVerificationCode: fbce1d5c4aa0396c0cc382e0bf8335383029f7b1 (./ftpupload.spdx excluded )
+PackageLicenseDeclared: GPL-3.0-or-later
+PackageLicenseInfoFromFiles: LicenseRef-GPL-3.0-or-later
+PackageLicenseConcluded: LicenseRef-GPL-3.0-or-later
+PackageCopyrightText: <text> 2021-2022 Matthew Buchanan Astley ( matthewbuchanan@astley.nl ) </text>
+PackageDownloadLocation: https://github.com/MatthewBuchananAstley/ftpupload.git
+
+#
+#
+#
+
+FileName: ./README.md
+SPDXID: SPDXRef-README.md
+FileType: TEXT
+FileChecksum: SHA256: f66e690230b42cfc7afaadbb8fd8b48e3570707aa86e268f31b471d12002b4fb
+FileChecksum: SHA1: 668a200f2fe353ddc05cbc76470ee29db248df21
+FileCopyrightText: <text> 2021-2022 Matthew Buchanan Astley ( matthewbuchanan@astley.nl ) </text>
+LicenseInfoInFile: NOASSERTION
+LicenseConcluded: NOASSERTION
+
+#
+#
+#
+
+FileName: ./CHANGELOG
+SPDXID: SPDXRef-CHANGELOG
+FileType: TEXT
+FileChecksum: SHA256: 5dd73f22bdad8935fe86c9750746d997d401bda8634ea70a02794600ae6e7e1a
+FileChecksum: SHA1: cf4df0d42f1061b1368c24e199f21dd7624f9377
+FileCopyrightText: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+LicenseConcluded: NOASSERTION
+
+#
+#
+#
+
+FileName: ./ftpupload.py
+SPDXID: SPDXRef-ftpupload.py
+FileType: TEXT
+FileChecksum: SHA256: e9f9a77ec30247b388ebcbc16a7ee0af35ab78c2468ebe243f92662ba361a7e4
+FileChecksum: SHA1: 59957279dfe4e9d2322d0c56e7180eaacd11691f
+FileCopyrightText: <text> 2021-2022 Matthew Buchanan Astley ( matthewbuchanan@astley.nl ) </text>
+LicenseInfoInFile: GPL-3.0-or-later
+LicenseConcluded: GPL-3.0-or-later
+
